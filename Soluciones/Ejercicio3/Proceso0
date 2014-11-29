@@ -1,0 +1,12 @@
+>> PROCESO: P0
+
+>> DIRECCION: 209
+        - Particionamiento: 213
+        - Paginacion: 763
+        - Segmentacion: Incompatible
+-----------------------------------------------------
+>> DIRECCION: (1,67)
+        - Particionamiento: Incompatible
+        - Paginacion: Error
+        - Segmentacion: 1501
+-----------------------------------------------------
